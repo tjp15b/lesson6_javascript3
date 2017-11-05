@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 1, 2017
 
 ### Student Name:  
-(First and Last Name)
+Tiana Prince
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this Lesson 6 assignment, we edited the photo.js file to match the code written in the index.html file. We included loops and img/src tags inn our code to ensure the photo gallery worked properly.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tjp15b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to get arrows to function correctly on a webpage using an index.html file and the code from it.
+2. I learned that you have to include the img/src tags in order for any pictures you have related to your program to show up when you preview it.
+3. I didn't learn, but I understand a better and different way to use a for loop for an application.
